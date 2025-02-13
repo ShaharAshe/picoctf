@@ -47,4 +47,4 @@ if __name__ == "__main__":
     except:
         print("Error in input")
         exit()
-    print(res)
+    print('picoCTF{'+str(res)+'}')
